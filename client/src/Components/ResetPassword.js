@@ -12,7 +12,7 @@ const ResetPassword = () => {
         e.preventDefault();
     
         //Update the password from id 
-        axios.put('http://localhost:8000/reset-password/'+id,{password})
+        axios.put('https://heloguys-backend.onrender.com/reset-password/'+id,{password})
         .then((result)=>{
     
             if(result.data!==""){
