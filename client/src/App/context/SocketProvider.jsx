@@ -9,7 +9,7 @@ export const useSocket=()=>{
 }
 
 const SocketProvider = (props) => {
-    const socket=io('ws://heloguys-backend.onrender.com');
+    const socket=io('https://heloguys-backend.onrender.com');
   return (
    <SocketContext.Provider value={socket}>  
     {props.children}
