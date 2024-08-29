@@ -5,7 +5,7 @@ const ForgetPassword = () => {
     const[email,setEmail]=useState();
 
     const submit=()=>{
-        axios.post('http://localhost:8000/forgetpassword',{email})
+        axios.post('https://heloguys-backend.onrender.com/forgetpassword',{email})
         .then((result)=>{
            console.log(result)
         }).catch((error)=>{
