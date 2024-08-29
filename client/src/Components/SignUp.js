@@ -13,7 +13,7 @@ const submit=(e)=>{
   if(email!=="" && password!=="" && name!==""){
     sessionStorage.setItem('email',email)
     e.preventDefault();
-      axios.post('http://localhost:8000/signup',{name,email,password})
+      axios.post('https://heloguys-backend.onrender.com/signup',{name,email,password})
         .then((result)=>{
              console.log(result);
         navigate('/lobby')
