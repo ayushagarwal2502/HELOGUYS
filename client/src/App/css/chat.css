@@ -1,0 +1,34 @@
+/* .chatPage {
+   padding-bottom: 585px;
+}
+
+.chatPage1 button {
+  background-color: #1E3F66;
+  color: #91BAD6;
+}
+
+.chatPage1 {
+  border: 2px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  width: 850px;
+  padding-left: 10px;
+  background-color: #528AAE;
+}
+
+.chatPage2 {
+     padding-top: 20px;
+} */
+
+.chatPage1 button {
+  background-color: #1E3F66;
+  color: #91BAD6;
+}
+
+.chatbuttons {
+  border: 2px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  background-color: #528AAE;
+}

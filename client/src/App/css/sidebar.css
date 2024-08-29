@@ -1,0 +1,45 @@
+/* .p {
+    border: 3px solid;
+    width: 600px;
+    height: 670px;
+    position: relative;
+}
+
+.text {
+  position: absolute;
+  bottom: 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  background-color: #528AAE;
+}
+
+.Navbar {
+  border: 2px;
+  width: 100%;
+  height: 60px;
+  background-color: #528AAE;
+}
+
+#text-contain {
+  border: 2px;
+  width: 100%;
+  height: 60px;
+  background-color: #528AAE;
+  position: absolute;
+  bottom: 0;
+}
+
+.psA {
+    padding-bottom: 605px;
+} */
+
+.p h3{
+  border: 2px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  background-color: #528AAE;
+}

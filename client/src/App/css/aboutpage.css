@@ -1,0 +1,47 @@
+.About {
+  background-color: #f5f5f5;
+}
+
+.aboutPage {
+  padding: 10px ;
+  background-color: #528AAE;
+  
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+
+.aboutPage1 {
+  padding-top: 60px;
+  background-color: white;
+}
+
+.aboutPage1 p{
+  padding-left: 180px;
+  padding-right: 170px;
+}
+
+#aboutpage {
+  border: 2px solid lightgray ;
+  
+}
+.aboutPage2 {
+ margin-top: 30px;
+ margin-left: 90px;
+  margin-right: 90px;
+}
+
+.aboutPage2 p{
+  margin-top: 20px;
+  border: 1px solid black;
+  border-radius: 18px;
+  margin-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+  width: 600px;
+  height: 400px;
+}

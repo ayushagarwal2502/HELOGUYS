@@ -1,0 +1,10 @@
+.signup-container {
+    height: 400px;
+    width: 400px;
+    border: 2px solid;
+}
+
+.signUp { 
+    padding-left: 480px;
+    padding-top: 120px;
+}
